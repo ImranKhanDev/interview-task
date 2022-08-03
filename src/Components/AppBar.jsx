@@ -11,7 +11,7 @@ const AppBar = () => {
       expand="lg"
       bg="white"
       style={{ color: "#000", fontWeight: 600 }}
-      className="nav "
+      id="nav"
     >
       <Container>
         <Navbar.Brand href="#home">

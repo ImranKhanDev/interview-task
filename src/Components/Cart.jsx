@@ -46,7 +46,7 @@ const Cart = () => {
               />
               <div className="item">
                 <h6>
-               Basic Slim <br /> T-shirt{" "}
+                  Basic Slim <br /> T-shirt{" "}
                 </h6>
                 <h6 style={{ color: "grey" }}>#3458745</h6>
               </div>
@@ -74,16 +74,8 @@ const Cart = () => {
         </div>
 
         <br />
-        
       </div>
-      <div className="button mb-3 mt-5 d-flex
-      justify-content-end
-      ">
-          <button >CONTINUE SHOPPING</button>
-          <button style={{ background: "#59CE8F"}}>
-            PROCEED TO SHIPPING
-          </button>
-        </div>
+     
     </>
   );
 };
